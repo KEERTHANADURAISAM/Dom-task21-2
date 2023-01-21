@@ -65,7 +65,7 @@ console.log(data)
 resolve(data)
     }
     else{
-        reject("Only 325 datas only display")
+        reject("325 datas only display")
     }
 }
     })
@@ -93,8 +93,3 @@ resolve(data)
 
 
 
-
-// fetch("https://api.punkapi.com/v2/beers")
-// .then((response)=>response.json())
-// .then((data)=>console.log(data))
-// .catch((err)=>console.log(err))
