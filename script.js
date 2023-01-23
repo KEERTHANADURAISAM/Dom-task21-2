@@ -29,7 +29,7 @@ newDiv2C.setAttribute("id","image-details");
 let inputtag=document.createElement("input");
 inputtag.setAttribute("type", "search")
 inputtag.setAttribute("id","txt")
-inputtag.setAttribute("placeholder","search the beer name")
+inputtag.setAttribute("placeholder","Enter the number")
 let newBut = document.createElement("button");
 newBut.setAttribute("class", "button");
 newBut.setAttribute("type", "search");
